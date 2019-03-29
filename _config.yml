@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: all
+  limit: 100
   exclude:
     forks: true
     projects:
